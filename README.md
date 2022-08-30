@@ -9,7 +9,7 @@ if your Dobby needs some socks - you're welcome to the world of code and lots of
 <br>
 I can:
 * make adaptive
-* create Javascript animation
+* create JavaScript animation
 * deal with FlexBox, CSS Grid Layout
 * turn desire into reality
 * ...and a lot of other stuff...
