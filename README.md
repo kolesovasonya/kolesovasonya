@@ -2,7 +2,7 @@
 
 I'm Sonya and I turn designs into real websites.
 <br>
-My magic wands: HTML, SCSS/Kit, JavaScript. BEM, Prepros, Sublime Text 3
+My magic wands: HTML5, CSS3, SCSS/Kit, JavaScript(jQuery), BEM.
 <br>
 if your Dobby needs some socks - you're welcome to the world of code and lots of coffee.
 <br>
@@ -10,7 +10,7 @@ if your Dobby needs some socks - you're welcome to the world of code and lots of
 I can:
 * make adaptive
 * create JavaScript animation
-* deal with FlexBox, CSS Grid Layout
+* deal with Flexbox, CSS Grid Layout
 * turn desire into reality
 * ...and a lot of other stuff...
 <br>
